@@ -6,8 +6,12 @@ This script for the Dataview plugin in Obsidian visualize task progress from spe
 
 Please specify the folder to track by modifying the path in the script.
 
-To show notes with fully completed tasks, use the updated condition below to ensure all tasks are considered, including fully completed ones:
+## Installation
+1. Copy the script into your Obsidian vault.
+2. Replace `"relative/path/to/your/folder"` with the path to your target folder.
+3. Add the script to a Dataview block in your Obsidian note.
 
+To show notes with fully completed tasks, use the updated condition below to ensure all tasks are considered, including fully completed ones:
 
 Replace this line:
 
